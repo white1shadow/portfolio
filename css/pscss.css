@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: grey;
+    border-style: dashed;
+}
+#bg{
+    background: url("abc.jpg") no-repeat;
+}
+#navbar {
+    width: 100%;
+    border-style: dashed;
+}
+nav li{
+    display: inline;
+    border-style: dashed;
+}
+header h1{
+    text-align: center;
+    border-style: dashed;
+}
+header section{
+    font-family: fantasy, cursive;
+    border-style: dashed;
+}
+header li {
+    list-style: none;
+    border-style: dashed;
+}
+header a:link,a:visited {
+    text-decoration: none;
+    background-color: gray;
+    border: 1px solid blue;
+    color: black;
+    border-style: dashed;
+}
+footer a:link,a:visited {
+    text-decoration: none;
+    color: grey;
+    border-style: dashed;
+}
+body{
+    border-style: dashed;
+    margin: 0;
+    padding: 0;
+}
+a:hover, a:active {
+    background-color:cornflowerblue;
+    color: purple;
+}
+#lowercard{
+    border-radius: 7px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 10px rgba(45,45,45,1);
+    margin-bottom: 10px;
+    padding: 10px;
+    border-style: dashed;
+}
