@@ -9,9 +9,10 @@ a{
 #bg{
     background: url("abc.jpg") no-repeat;
 }
-#navbar {
+#headnavbar {
     width: 100%;
-    border-style: dashed;
+    border-style: solid;
+    border-radius: 0%;
 }
 nav li{
     display: inline;
